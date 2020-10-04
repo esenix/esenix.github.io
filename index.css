@@ -28,6 +28,14 @@ header i {
     position: relative;
 }
 
+footer {
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 .blink {
     animation: blink-animation 0.7s infinite;
 }
