@@ -19,6 +19,13 @@ header {
 
 header > h1 {
     color: white;
+    display: inline-block;
+}
+
+header i {
+    color: white;
+    left: 85%;
+    position: relative;
 }
 
 .blink {
